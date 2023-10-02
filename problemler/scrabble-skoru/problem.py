@@ -25,6 +25,10 @@
 
 # Problem 3
 # bir kelimenin scrabble skorunu bulmak
+# Ornegin "devseu"nun scrabble skoru 10 puan
 
-# Problem 4
+# Problem 4 - bonus
 # elimizdeki bir liste scrabble tasi ile yazilabilecek scrabble puani en yuksek kelimeyi (veya kelimeleri) yazdirmak
+# Ornegin "devseu"nun harfleri ile yazilabilecek en uzun (ingilizce) kelime "suede" 6 puan. Ama en cok puani "devs" kelimesi (8 puan) getiriyor.
+# Herhangi bir yerden ingilizce kelime listesi elde edebilirsin.
+# Scrabble skorunu turkce harfler icin yazdi isen, burada da turkce kelimeler uretebilirsin.
