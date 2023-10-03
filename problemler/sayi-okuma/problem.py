@@ -20,4 +20,4 @@
 
 # problem - zor bonus 2
 # verilen okunusun olasi tum sayi karsiliklarini yaz
-# Ornegin: "dokuz yuz yetmis uc" -> [[973], [9, 100, 70, 3], [9, 173], [9, 170, 3]]
+# Ornegin: "dokuz yuz yetmis uc" -> [[973], [9, 100, 70, 3], [9, 173], [9, 170, 3], ...]
